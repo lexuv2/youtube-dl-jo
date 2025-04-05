@@ -1,0 +1,4 @@
+build==1.2.2.post1
+packaging==24.2
+pyproject_hooks==1.2.0
+-e git+ssh://git@github.com/lexuv2/youtube-dl-jo.git@c9620b328468dfce88292961590c375b20476503#egg=youtube_dl
