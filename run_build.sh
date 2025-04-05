@@ -1,2 +1,2 @@
 #!/bin/bash
-build
+python3 -m build
